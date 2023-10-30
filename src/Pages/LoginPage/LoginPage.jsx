@@ -12,8 +12,8 @@ function LoginPage() {
         p="1rem 6%"
         textAlign="center"
       >
-        <Typography fontWeight="bold" fontSize="32px" color="primary">
-          Sociopedia
+        <Typography fontWeight="bold" fontSize="32px" color="secondary">
+          Nazmul Social Media
         </Typography>
       </Box>
 
