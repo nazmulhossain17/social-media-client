@@ -61,7 +61,7 @@ const Navbar = () => {
             },
           }}
         >
-          Sbook
+          Nazmul-Book
         </Typography>
         {isNonMobileScreens && (
           <FlexBetween
